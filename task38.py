@@ -1,4 +1,4 @@
-def найти_k_ю_цифру(k):
+def find_number(k):
     
     num = ''.join(str(i) for i in range(101, 151))
     
